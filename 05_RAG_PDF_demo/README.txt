@@ -1,0 +1,2 @@
+完成 RAG 融合，实现本地 PDF 语义检索，用手搓导入pdfreader和textsplitter把pdf切为16块，再模拟langchain的步骤完成PDF的封装，
+再使用langchain完成简易检索；再将langchain融合进昨天的superagent里完成融合。	
